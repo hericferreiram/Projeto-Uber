@@ -5,7 +5,9 @@ img{
     transform: scaleX(1);
 }
 
-header,d-flex{
+header{
     background-color: black;
 }
-
+#etapa1{
+    background-color: black;
+}
