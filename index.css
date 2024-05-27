@@ -26,3 +26,10 @@ img{
         padding-left: 64px;    
 }
 
+#etapa4{
+    background-color: black;
+}
+
+.row-footer{
+    display: flex;
+}
