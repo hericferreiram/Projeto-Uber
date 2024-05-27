@@ -26,10 +26,30 @@ img{
         padding-left: 64px;    
 }
 
-#etapa4{
+footer{
     background-color: black;
+    color: white;
+
 }
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+footer ul{
+    list-style: none;
+}
+
 
 .row-footer{
     display: flex;
+}
+
+
+
+footer .icone{
+    display: flex;
+    gap: 100px;
+    flex-direction: column;
 }
