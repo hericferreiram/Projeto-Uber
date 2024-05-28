@@ -12,6 +12,36 @@ header{
     line-height: 64px;
 }
 
+#etapa1{
+    padding-top: 104px;
+        padding-right: 64px;
+        padding-bottom: 64px;
+        padding-left: 244px;    
+}
+
+#etapa2{
+    padding-top: 64px;
+        padding-right: 64px;
+        padding-bottom: 64px;
+        padding-left: 64px;    
+} 
+
+#etapa3{
+    padding-top: 64px;
+    padding-right: 184px;
+    padding-bottom: 64px;
+    padding-left: 204px;
+}
+
+
+
+
+
+
+
+
+
+
 img{
     height: 558px;
     width: 558px;
@@ -19,12 +49,7 @@ img{
     display: block;
 }
 
-#etapa1{
-    padding-top: 64px;
-        padding-right: 64px;
-        padding-bottom: 64px;
-        padding-left: 64px;    
-}
+
 
 footer{
     background-color: black;
