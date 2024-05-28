@@ -22,8 +22,8 @@ header{
 #etapa2{
     padding-top: 64px;
         padding-right: 64px;
-        padding-bottom: 64px;
-        padding-left: 64px;    
+        padding-bottom: 104px;
+        padding-left: 104px;    
 } 
 
 #etapa3{
@@ -32,15 +32,6 @@ header{
     padding-bottom: 64px;
     padding-left: 204px;
 }
-
-
-
-
-
-
-
-
-
 
 img{
     height: 558px;
